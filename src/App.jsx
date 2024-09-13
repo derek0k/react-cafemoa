@@ -1,3 +1,5 @@
+import Router from './shared/Router';
+
 export default function App() {
-  return <p>Hello,React!</p>;
+  return <Router />;
 }
